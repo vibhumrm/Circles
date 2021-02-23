@@ -1,2 +1,2 @@
 # Circles
-Circle graph circle graph
+circle graph circle graph
